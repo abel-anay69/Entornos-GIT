@@ -22,6 +22,27 @@
 
 ####  4. Añade el fichero a la zona de preparado.
 
+![](Imagenes/add1.PNG)
+
+#### 5. Comprueba de nuevo el estado del repositorio.
+
+![](Imagenes/estado2.PNG)
+
+#### 6. Hacer el primer commit con su comentario correspondiente.
+
+![](Imagenes/commit1.PNG)
+
+#### 7. Añadir la línea al fichero:
+
+- Mac
+
+![](Imagenes/archivo2.PNG)
+
+#### 8. Comprueba de nuevo el estado del repositorio.
+
+![](Imagenes/estado3.PNG)
+
+#### 9. Añadir el fichero a preparado.
 
 
 
