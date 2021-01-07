@@ -44,5 +44,17 @@
 
 #### 9. Añadir el fichero a preparado.
 
+![](Imagenes/add2.PNG)
 
 
+#### 10. Hacer otro commit del fichero.
+
+![](Imagenes/commit2.PNG)
+
+#### 11. Cambiar el mensaje del último commit por "Añadido la línea de MAC".
+
+![](Imagenes/cambiodecommit.PNG)
+
+#### 12. Subir el repositorio.
+
+![](Imagenes/subirelrepositorio.PNG)
