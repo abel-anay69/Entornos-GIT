@@ -54,3 +54,13 @@ Desde un punto de vista técnico, no son sistemas operativos, sino que contienen
 La versión más reciente de Windows es Windows 10 para equipos de escritorio, Windows Server 2019 para servidores y Windows 10 Mobile para dispositivos móviles. La primera versión en español fue Windows 2.1.
 
 #### 12. Añade los cambios a la zona de preparado.
+
+![](imgenes%20P3/add3.PNG)
+
+#### 13. Commit de los cambios con el comentario "Añadidas versiones a windows2.txt"
+
+![](imgenes%20P3/commit3.PNG)
+
+#### 14. Mostrad quien ha hecho cambios en el fichero windows2.txt
+
+![](imgenes%20P3/annotate.PNG)
