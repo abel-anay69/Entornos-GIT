@@ -22,9 +22,5 @@ public class test {
     }
 
     @Override
-    public String toString(){
-        String resultado;
-        resultado = "[a: "+a+" b: "+b+"]\n";
-        return resultado;
-    }
+    
 }
